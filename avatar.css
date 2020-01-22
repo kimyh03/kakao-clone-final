@@ -1,0 +1,91 @@
+.avatar-50 {
+  width: 50px;
+  height: 50px;
+  border-radius: 40%;
+  margin-right: 15px;
+}
+.avatar-45 {
+  width: 45px;
+  height: 45px;
+  border-radius: 40%;
+  margin-right: 15px;
+}
+.avatar-40 {
+  width: 40px;
+  height: 40px;
+  border-radius: 40%;
+  margin-right: 15px;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.avatar__column-left {
+  display: flex;
+  align-items: center;
+}
+.plusFriend {
+  border-top: 1px solid #fafafa;
+  border-bottom: 1px solid #fafafa;
+  padding-bottom: 5px;
+}
+section .title {
+  font-size: 13px;
+  opacity: 0.7;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+.avatar__name {
+  font-weight: 600;
+  font-size: 15px;
+}
+.avatar__status {
+  margin-top: 1px;
+  font-size: 12px;
+  opacity: 0.7;
+}
+.avatar__ect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 11px;
+  opacity: 0.7;
+}
+.music {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #00c90ad0;
+  padding: 0px 10px;
+  border-radius: 15px;
+}
+.music i {
+  margin-left: 5px;
+  color: #00c90ad0;
+  font-size: 10px;
+}
+.find__add-btn {
+  background-color: #f5f5f5;
+  padding: 10px 15px;
+}
+.more__me-btn {
+  font-size: 20px;
+}
+.bell {
+  text-align: center;
+  color: white;
+  background-color: #dd0000ea;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-top: 5px;
+}
+#avatar-me {
+  margin: 20px 0px;
+}

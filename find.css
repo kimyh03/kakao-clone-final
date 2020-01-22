@@ -1,0 +1,23 @@
+.find__items {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.find__items-module i {
+  font-size: 23px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.find__items-module span {
+  font-size: 12px;
+  position: absolute;
+  top: 30px;
+  display: inline-block;
+}

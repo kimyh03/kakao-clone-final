@@ -1,0 +1,19 @@
+.settings i {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+.setting__items__row {
+  padding: 10px 0px;
+  border-top: 1px solid #fafafa;
+}
+.setting__items__module {
+  display: flex;
+}
+.setting__items__iconBox {
+  text-align: center;
+  width: 50px;
+}
+.lastsetting__items__row {
+  margin-bottom: 50px;
+}
